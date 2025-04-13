@@ -12,8 +12,7 @@ This Power BI report provides a comprehensive overview of d trends.
 ## 📂 Files
 
 - `(https://1drv.ms/u/c/78ce2de4fe486a15/EXPo4FrUlJ5PrEdbY7a8qrwBz0qOf6i_N1M7u6ixK3KevA?e=VbcJyc)` - Power BI report file
-- `` - Sample dataset used for the report
-
+- 
 ## 🚀 Features
 
 - Interactive visuals with drill-down capabilities
@@ -28,7 +27,7 @@ This Power BI report provides a comprehensive overview of d trends.
 
 ## 📸 Screenshot
 
-![Sales Dashboard Screenshot](screenshot.png)
+Dashboard Screenshot(https://1drv.ms/i/c/78ce2de4fe486a15/EYvUijN4ytRGu15kmmu604gBX7dM2nzlOVUjvGV2PodA2Q?e=V0vXZ7)
 
 ## 📥 How to Use
 
