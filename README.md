@@ -27,7 +27,7 @@ This Power BI report provides a comprehensive overview of d trends.
 
 ## 📸 Screenshot
 
-Dashboard Screenshot(https://1drv.ms/i/c/78ce2de4fe486a15/EYvUijN4ytRGu15kmmu604gBX7dM2nzlOVUjvGV2PodA2Q?e=V0vXZ7)
+Dashboard Screenshot(https://github.com/Divyamanjunath14/PowerBI-for-ELC/blob/main/Screenshot%20(9).png)
 
 ## 📥 How to Use
 
